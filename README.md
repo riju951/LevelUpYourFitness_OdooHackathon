@@ -4,10 +4,7 @@
 
 Welcome to **Level Up Your Fitness**—a revolutionary full-stack application designed to transform your health journey with personalized workout and diet plans. Dive into a world of customized fitness strategies and dynamic progress tracking. Elevate your wellness with precision, privacy, and motivation—where your goals meet our expertise.
 
-
-
-https://github.com/riju951/LevelUpYourFitness_OdooHackathon/assets/82694741/0d6bea03-1b8e-4997-9b2f-408029a105de
-
+![image](https://github.com/riju951/LevelUpYourFitness_OdooHackathon/assets/82694741/7322c451-60f2-4464-a219-594e6bc1d885)
 
 
 ## 🚀 Features
