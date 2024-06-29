@@ -6,6 +6,10 @@ Welcome to **Level Up Your Fitness**—a revolutionary full-stack application de
 
 ![image](https://github.com/riju951/LevelUpYourFitness_OdooHackathon/assets/82694741/7322c451-60f2-4464-a219-594e6bc1d885)
 
+![image](https://github.com/riju951/LevelUpYourFitness_OdooHackathon/assets/82694741/0b6153b0-89cc-48f2-a736-a2e66f3dddc9)
+
+![image](https://github.com/riju951/LevelUpYourFitness_OdooHackathon/assets/82694741/48a9cd72-944d-406f-ba0a-ffda8a44fa30)
+
 
 ## 🚀 Features
 
